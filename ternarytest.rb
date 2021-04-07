@@ -1,0 +1,5 @@
+
+
+likely_to_rain = true
+
+garment = likely_to_rain ? "galoshes" : "sun hat"
